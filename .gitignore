@@ -1,0 +1,18 @@
+/.vs
+/.vscode
+/.vsconfig
+/Assembly-CSharp.csproj
+/CW.Common.csproj
+/FastScriptReload.Editor.csproj
+/FastScriptReload.Runtime.csproj
+/LeanCommon.csproj
+/LeanTouch.csproj
+/Library
+/Life Dilemma.sln
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UIElementsSchema
+/UserSettings
